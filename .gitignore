@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Data Ingestion Client/bin/Debug/net6.0
+/Data Ingestion Client/obj
+/.vs/IngestionService/v17
+/.vs/slnx.sqlite
