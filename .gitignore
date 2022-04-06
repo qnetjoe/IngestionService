@@ -4,5 +4,4 @@
 
 /Data Ingestion Client/bin/Debug/net6.0
 /Data Ingestion Client/obj
-/.vs/IngestionService/v17
-/.vs/slnx.sqlite
+/.vs
