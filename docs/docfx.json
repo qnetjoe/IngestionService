@@ -14,7 +14,6 @@
           "src": ".."
         }
       ],
-      "filter": "filter.yml",
       "dest": "api",
       "disableGitFeatures": false,
       "disableDefaultFilter": false
@@ -25,9 +24,25 @@
       {
         "files": [
           "api/**.yml",
-          "api/**.md"
+          "api/index.md"
         ]
       },
+      {
+        "files": [
+          "articles/**.md",
+          "articles/**/toc.yml",
+          "toc.yml",
+          "*.md"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "images/**"
+        ]
+      }
+    ],
     "overwrite": [
       {
         "files": [
@@ -40,24 +55,18 @@
       }
     ],
     "dest": "_site",
-    "globalMetadata": {
-      "_appName": "AppName",
-      "_appTitle": "Documentation",
-      "_enableSearch": false,
-      "_disableAffix": false,
-      "_disableSideFilter": true
-    },
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
-      "default"
+      "default",
+      "_templates/darkfx",
+      "_templates/discordfx"
     ],
     "postProcessors": [],
     "markdownEngineName": "markdig",
     "noLangKeyword": false,
     "keepFileLink": false,
     "cleanupCacheHistory": false,
-    "disableGitFeatures": false,
-    ]
+    "disableGitFeatures": false
   }
 }

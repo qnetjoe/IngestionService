@@ -1,7 +1,4 @@
-## Welcome
-
-This project is an ingestion microservice designed to ingest data files from a remote device and send the records to another microservice.
-
-### Components
-
-This project consists of two components: 1.) A microservice that recieves the data files from the client and 2.) the client that sends the data file.
+# This is the **HOMEPAGE**.
+Refer to [Markdown](http://daringfireball.net/projects/markdown/) for how to write markdown files.
+## Quick Start Notes:
+1. Add images to the *images* folder if the file is referencing an image.
