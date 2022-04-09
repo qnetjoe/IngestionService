@@ -1,0 +1,77 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Ingestion.Client.Checksum
+  name: Ingestion.Client.Checksum
+  href: api/Ingestion.Client.Checksum.html
+  commentId: N:Ingestion.Client.Checksum
+  fullName: Ingestion.Client.Checksum
+  nameWithType: Ingestion.Client.Checksum
+- uid: Ingestion.Client.Checksum.Checksum
+  name: Checksum
+  href: api/Ingestion.Client.Checksum.Checksum.html
+  commentId: T:Ingestion.Client.Checksum.Checksum
+  fullName: Ingestion.Client.Checksum.Checksum
+  nameWithType: Checksum
+- uid: Ingestion.Client.Checksum.Checksum.GetChecksum(Ingestion.Client.Checksum.HashingAlgoTypes,System.String)
+  name: GetChecksum(HashingAlgoTypes, String)
+  href: api/Ingestion.Client.Checksum.Checksum.html#Ingestion_Client_Checksum_Checksum_GetChecksum_Ingestion_Client_Checksum_HashingAlgoTypes_System_String_
+  commentId: M:Ingestion.Client.Checksum.Checksum.GetChecksum(Ingestion.Client.Checksum.HashingAlgoTypes,System.String)
+  fullName: Ingestion.Client.Checksum.Checksum.GetChecksum(Ingestion.Client.Checksum.HashingAlgoTypes, System.String)
+  nameWithType: Checksum.GetChecksum(HashingAlgoTypes, String)
+- uid: Ingestion.Client.Checksum.Checksum.GetChecksum*
+  name: GetChecksum
+  href: api/Ingestion.Client.Checksum.Checksum.html#Ingestion_Client_Checksum_Checksum_GetChecksum_
+  commentId: Overload:Ingestion.Client.Checksum.Checksum.GetChecksum
+  isSpec: "True"
+  fullName: Ingestion.Client.Checksum.Checksum.GetChecksum
+  nameWithType: Checksum.GetChecksum
+- uid: Ingestion.Client.Checksum.Checksum.GetChecksumBytes(Ingestion.Client.Checksum.HashingAlgoTypes,System.String)
+  name: GetChecksumBytes(HashingAlgoTypes, String)
+  href: api/Ingestion.Client.Checksum.Checksum.html#Ingestion_Client_Checksum_Checksum_GetChecksumBytes_Ingestion_Client_Checksum_HashingAlgoTypes_System_String_
+  commentId: M:Ingestion.Client.Checksum.Checksum.GetChecksumBytes(Ingestion.Client.Checksum.HashingAlgoTypes,System.String)
+  fullName: Ingestion.Client.Checksum.Checksum.GetChecksumBytes(Ingestion.Client.Checksum.HashingAlgoTypes, System.String)
+  nameWithType: Checksum.GetChecksumBytes(HashingAlgoTypes, String)
+- uid: Ingestion.Client.Checksum.Checksum.GetChecksumBytes*
+  name: GetChecksumBytes
+  href: api/Ingestion.Client.Checksum.Checksum.html#Ingestion_Client_Checksum_Checksum_GetChecksumBytes_
+  commentId: Overload:Ingestion.Client.Checksum.Checksum.GetChecksumBytes
+  isSpec: "True"
+  fullName: Ingestion.Client.Checksum.Checksum.GetChecksumBytes
+  nameWithType: Checksum.GetChecksumBytes
+- uid: Ingestion.Client.Checksum.HashingAlgoTypes
+  name: HashingAlgoTypes
+  href: api/Ingestion.Client.Checksum.HashingAlgoTypes.html
+  commentId: T:Ingestion.Client.Checksum.HashingAlgoTypes
+  fullName: Ingestion.Client.Checksum.HashingAlgoTypes
+  nameWithType: HashingAlgoTypes
+- uid: Ingestion.Client.Checksum.HashingAlgoTypes.MD5
+  name: MD5
+  href: api/Ingestion.Client.Checksum.HashingAlgoTypes.html#Ingestion_Client_Checksum_HashingAlgoTypes_MD5
+  commentId: F:Ingestion.Client.Checksum.HashingAlgoTypes.MD5
+  fullName: Ingestion.Client.Checksum.HashingAlgoTypes.MD5
+  nameWithType: HashingAlgoTypes.MD5
+- uid: Ingestion.Client.Checksum.HashingAlgoTypes.SHA1
+  name: SHA1
+  href: api/Ingestion.Client.Checksum.HashingAlgoTypes.html#Ingestion_Client_Checksum_HashingAlgoTypes_SHA1
+  commentId: F:Ingestion.Client.Checksum.HashingAlgoTypes.SHA1
+  fullName: Ingestion.Client.Checksum.HashingAlgoTypes.SHA1
+  nameWithType: HashingAlgoTypes.SHA1
+- uid: Ingestion.Client.Checksum.HashingAlgoTypes.SHA256
+  name: SHA256
+  href: api/Ingestion.Client.Checksum.HashingAlgoTypes.html#Ingestion_Client_Checksum_HashingAlgoTypes_SHA256
+  commentId: F:Ingestion.Client.Checksum.HashingAlgoTypes.SHA256
+  fullName: Ingestion.Client.Checksum.HashingAlgoTypes.SHA256
+  nameWithType: HashingAlgoTypes.SHA256
+- uid: Ingestion.Client.Checksum.HashingAlgoTypes.SHA384
+  name: SHA384
+  href: api/Ingestion.Client.Checksum.HashingAlgoTypes.html#Ingestion_Client_Checksum_HashingAlgoTypes_SHA384
+  commentId: F:Ingestion.Client.Checksum.HashingAlgoTypes.SHA384
+  fullName: Ingestion.Client.Checksum.HashingAlgoTypes.SHA384
+  nameWithType: HashingAlgoTypes.SHA384
+- uid: Ingestion.Client.Checksum.HashingAlgoTypes.SHA512
+  name: SHA512
+  href: api/Ingestion.Client.Checksum.HashingAlgoTypes.html#Ingestion_Client_Checksum_HashingAlgoTypes_SHA512
+  commentId: F:Ingestion.Client.Checksum.HashingAlgoTypes.SHA512
+  fullName: Ingestion.Client.Checksum.HashingAlgoTypes.SHA512
+  nameWithType: HashingAlgoTypes.SHA512
